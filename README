@@ -1,3 +1,6 @@
+****IMPORTANT NOTE***
+This acts_as_list fork is not working with Rails 3 upstream. It stopped working a few releases ago. Please look for another acts_as_list fork. Luckily, there are a few that are compatible with Rails 3.
+
 ActsAsList
 ==========
 
